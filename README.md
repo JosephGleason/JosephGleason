@@ -27,7 +27,7 @@ I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my 
 
 ## 🤝 Collaboration
 
-I learn best through peer collaboration and code reviews. Always open to connecting with fellow developers!
+I learn best through creating personal projects and collaborating with fellow developers. Always open to connecting!
 
 ## 📫 Let's Connect
 
