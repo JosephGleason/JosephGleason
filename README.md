@@ -1,8 +1,8 @@
-# Hi, I'm Joseph! 👋
+# Hi, I'm Joe! 👋
 
 I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my skills at Holberton Coding School. I'm passionate about building solid foundations in computer science and collaborating with others to solve problems.
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools     
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -12,9 +12,9 @@ I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my 
 
 **Development Environment:** Unix/Ubuntu, Vi, VSCode, MySQL
 
-## 💻 What I'm Working On
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px"/> What I'm Working On
 
-- Completing the **Holberton School Foundations** program
+- Completing the **Holberton School Foundations** program and becoming a Full Stack developer
 - Building projects in **C** and **Python**
 - Strengthening my understanding of algorithms and data structures
 - Completed **132+ tasks** averaging 100% in peer-reviewed projects
