@@ -41,6 +41,4 @@ I learn best through creating personal projects and collaborating with fellow de
 
 ![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephGleason&show_icons=true&theme=dark)
 
-![Snake animation](https://github.com/JosephGleason/JosephGleason/blob/output/github-snake-dark.svg)
-
 *“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”*
