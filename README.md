@@ -15,7 +15,7 @@ I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my 
 ## 💻 What I'm Working On
 
 - Completing the **Holberton School Foundations** program
-- Building projects in **C** with a focus on systems programming
+- Building projects in **C** and **Python**
 - Strengthening my understanding of algorithms and data structures
 - Completed **132+ tasks** averaging 100% in peer-reviewed projects
 
@@ -36,4 +36,4 @@ I learn best through peer collaboration and code reviews. Always open to connect
 
 ---
 
-*"Code is read more often than it is written."*
+*“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”*
