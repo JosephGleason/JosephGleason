@@ -12,7 +12,7 @@ I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my 
 
 **Development Environment:** Unix/Ubuntu, Vi, VSCode, MySQL
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35px"/> What I'm Working On
+## 🔧 What I'm Working On <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35px"/>
 
 - Completing the **Holberton School Foundations** program and becoming a Full Stack developer
 - Building projects in **C** and **Python**
