@@ -1,4 +1,5 @@
-# Hi, I'm Joe! 👋
+# Hi, I'm Joe! 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full+Stack+Developer+in+Training;C+%7C+Python+%7C+SQL+Enthusiast;Based+in+San+Juan%2C+Puerto+Rico)](https://git.io/typing-svg)
 
 I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my skills at Holberton Coding School. I'm passionate about building solid foundations in computer science and collaborating with others to solve problems.
 
@@ -35,5 +36,9 @@ I learn best through creating personal projects and collaborating with fellow de
 - **Email:** joeg1834@gmail.com
 
 ---
+
+## 📊 GitHub Stats
+
+![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephGleason&show_icons=true&theme=dark)
 
 *“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”*
