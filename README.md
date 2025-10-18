@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Joseph! 👋
 
-<!--
-**JosephGleason/JosephGleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my skills at Holberton Coding School. I'm passionate about building solid foundations in computer science and collaborating with others to solve problems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Development Environment:** Unix/Ubuntu, Vi, VSCode, MySQL
+
+## 💻 What I'm Working On
+
+- Completing the **Holberton School Foundations** program
+- Building projects in **C** with a focus on systems programming
+- Strengthening my understanding of algorithms and data structures
+- Completed **132+ tasks** averaging 100% in peer-reviewed projects
+
+## 🎓 Background
+
+- **Holberton Coding School** - Foundations of Computer Science & Software Engineering (2024-2025)
+- **4 years** of Computer Science coursework at Universidad Politécnica de Puerto Rico
+- **Web Design Bootcamp** graduate - HTML, CSS, JavaScript
+
+## 🤝 Collaboration
+
+I learn best through peer collaboration and code reviews. Always open to connecting with fellow developers!
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [joseph-v-gleason-lópez](https://www.linkedin.com/in/joseph-v-gleason-lópez)
+- **Email:** joeg1834@gmail.com
+
+---
+
+*"Code is read more often than it is written."*
