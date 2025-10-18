@@ -12,24 +12,24 @@ I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my 
 
 **Development Environment:** Unix/Ubuntu, Vi, VSCode, MySQL
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px"/> What I'm Working On
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35px"/> What I'm Working On
 
 - Completing the **Holberton School Foundations** program and becoming a Full Stack developer
 - Building projects in **C** and **Python**
 - Strengthening my understanding of algorithms and data structures
 - Completed **132+ tasks** averaging 100% in peer-reviewed projects
 
-## 🎓 Background
+## 🎓 Background <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="55px"/>
 
 - **Holberton Coding School** - Foundations of Computer Science & Software Engineering (2024-2025)
 - **4 years** of Computer Science coursework at Universidad Politécnica de Puerto Rico
 - **Web Design Bootcamp** graduate - HTML, CSS, JavaScript
 
-## 🤝 Collaboration
+## 🤝 Collaboration <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"/>
 
 I learn best through creating personal projects and collaborating with fellow developers. Always open to connecting!
 
-## 📫 Let's Connect
+## 📫 Let's Connect <img src="https://media.giphy.com/media/l3q2Z6S6n38zjPswo/giphy.gif" width="55px"/>
 
 - **LinkedIn:** [joseph-v-gleason-lópez](https://www.linkedin.com/in/joseph-v-gleason-lópez)
 - **Email:** joeg1834@gmail.com
