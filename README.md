@@ -1,7 +1,7 @@
 # Hi, I'm Joe! 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full+Stack+Developer+in+Training;C+%7C+Python+%7C+SQL+Enthusiast;Based+in+San+Juan%2C+Puerto+Rico)](https://git.io/typing-svg)
 
-I'm a software engineer based in San Juan, Puerto Rico, currently sharpening my skills at Holberton Coding School. I'm passionate about building solid foundations in computer science and collaborating with others to solve problems.
+I'm a software engineer based in San Juan, Puerto Rico, graduated from Holberton Coding School. I'm passionate about building solid foundations in computer science and collaborating with others to solve problems.
 
 ## 🔧 Technologies & Tools     
 
